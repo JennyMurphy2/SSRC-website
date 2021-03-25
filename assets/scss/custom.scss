@@ -8927,9 +8927,14 @@ html[dir='rtl'] body {
 .parallax {
   background-attachment: fixed; }
 
-@media (max-width: 991.98px) {
-  .parallax {
-    background-attachment: inherit; } }
+  @media (hover: none) {
+    .parallax {
+      height: auto;
+      background-attachment: scroll;
+      background-size: contain;
+      background-repeat: repeat;
+    }
+  }
 
 .home-section:first-of-type {
   padding-top: 50px; }
