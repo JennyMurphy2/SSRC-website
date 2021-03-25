@@ -8927,14 +8927,11 @@ html[dir='rtl'] body {
 .parallax {
   background-attachment: fixed; }
 
-  @media (hover: none) {
-    .parallax {
-      height: auto;
-      background-attachment: scroll;
-      background-size: contain;
-      background-repeat: repeat;
-    }
-  }
+@media only screen and (max-width: 749px) {
+  .parallax {
+    background-attachment: inherit; 
+  } 
+}
 
 .home-section:first-of-type {
   padding-top: 50px; }
