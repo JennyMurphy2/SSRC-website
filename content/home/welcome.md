@@ -31,4 +31,4 @@ advanced:
 
 The Sports Science Replication Centre is based in Dublin, Ireland. This intention of this centre is to create a worldwide, collborative investigation into the replicability of research findings specific to the field of sports science using objective and transparent replication studies of current evidence.
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "SSRCleaflet.pdf" "newtab" >}}leaflet{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/SSRCleaflet.pdf" "newtab" >}}leaflet{{< /staticref >}}.

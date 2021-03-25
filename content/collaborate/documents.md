@@ -38,4 +38,4 @@ item:
   
 ---
 
-{{< icon name="download" pack="fas" >}} Please download our {{< staticref "SSRCleaflet.pdf" "newtab" >}}'Information for Collaborating Labs'{{< /staticref >}} leaflet for further information on collaborating with us. 
+{{< icon name="download" pack="fas" >}} Please download our {{< staticref "media/SSRCleaflet.pdf" "newtab" >}}'Information for Collaborating Labs'{{< /staticref >}} leaflet for further information on collaborating with us. 
