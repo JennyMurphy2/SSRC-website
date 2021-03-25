@@ -6,15 +6,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Wowchemy Research Group"
+title = "Sports Science Replication Centre"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "https://ssreplicationcentre.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Research Group"
+copyright = "&copy; SSRC {year}"
 
 ############################
 ## Advanced options below ##
@@ -45,7 +45,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
+  home = [ "HTML", "RSS", "headers", "WebAppManifest", "redirects", "JSON" ]
   section = [ "HTML", "RSS" ]
 
 # Configure the Markdown renderer.
@@ -66,11 +66,11 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  publication_type = "publication_types"
+#[taxonomies]
+# tag = "tags"
+# category = "categories"
+# author = "authors"
+# publication_type = "publication_types"
 
 # Related content.
 [related]

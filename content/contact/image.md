@@ -5,6 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 20
@@ -15,7 +16,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: contact.jpg
+    image: longlogo.png
     image_darken: 0
     image_parallax: false
     image_position: center

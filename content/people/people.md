@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 10
 
 title: Meet the Team
 subtitle:
@@ -26,4 +26,8 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  background:
+    gradient_end: '#fffefa'
+    gradient_start: '#fffefa'
+    text_color_light: false
 ---

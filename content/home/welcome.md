@@ -6,15 +6,29 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: ""
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  
+  background:
+    image: health.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["200px", "25px", "200px", "950px"]
+
 advanced:
   css_style:
   css_class:
+
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Sports Science Replication Centre is based in Dublin, Ireland. This intention of this centre is to create a worldwide, collborative investigation into the replicability of research findings specific to the field of sports science using objective and transparent replication studies of current evidence.
+
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/demo_resume.pdf" "newtab" >}}leaflet{{< /staticref >}}.

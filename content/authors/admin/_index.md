@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jenny Murphy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Technological University Dublin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include replication, open science and statistics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Replication
+- Open Science
+- Research Methods
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Replication in Sports Science
+    institution: Technological University Dublin
+    year: current
+  - course: MSc in Sports Performance
+    institution: University of Limerick
+    year: 2020
+  - course: BSc in Athletic Therapy and Training
+    institution: Dublin City University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,14 +40,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:x00170612@mytudublin.ie'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/JennyMurphy2
+# - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+# - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,6 +68,5 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jenny Murphy is a PhD researcher at Technological University Dublin which commenced in October 2020. She is an awardee of the Government of Ireland Postgraduate Scholarship Programme. Jenny has a keen interest in how research is conducted in the field of sports science and her affinity for research quality and methodologies has progessively increased throughout her education. She has a long term interest in improving the quality and rigor of research in sports science and is excited to oversee the investigation of research credibility to diminish common research issues within the field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

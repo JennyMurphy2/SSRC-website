@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "my_theme"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Sports Science Replication Centre"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "Sports Science Replication Centre"
 
 ############################
 ## Site Features
@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = false
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -84,26 +84,26 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "x00170612@mytudublin.ie"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Technological University Dublin", city = "Tallaght", region = "Dublin 24", postcode = "", country = "Ireland", country_code = "IE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "53.29107", longitude = "-6.36337"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["9:00 to 17:00 Monday to Friday"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -120,7 +120,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "icon.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
@@ -131,22 +131,22 @@ twitter = ""
 
 # Date and time format (refer to https://wowchemy.com/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "Mon, Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
@@ -242,10 +242,10 @@ plugins_js  = []
   #
   # Map provider:
   #   "": No map
-  #   "google": Google Maps
-  #   "mapnik": OpenStreetMap (Mapnik)
-  #   "mapbox": OpenStreetMap (Mapbox)
-  provider = "mapnik"
+  #   "": Google Maps
+  #   "": OpenStreetMap (Mapnik)
+  #   "": OpenStreetMap (Mapbox)
+  provider = ""
   api_key = ""
   zoom = 15
 

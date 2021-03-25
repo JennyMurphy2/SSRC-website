@@ -1,0 +1,22 @@
+# Theme metadata
+name = "SSRC"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#022c38"
+
+# Menu
+menu_primary = "#fffefa"
+menu_text = "#022c38"
+menu_text_active = "#baa45b"
+menu_title = "#022c38"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
