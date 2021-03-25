@@ -15,13 +15,13 @@ design:
   
   background:
     image: health.jpg
-    image_darken: 1.0
+    image_darken: 0.4
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["200px", "25px", "200px", "800px"]
+      padding: [150px 0px 200px 0px]
 
 advanced:
   css_style:
@@ -29,6 +29,6 @@ advanced:
 
 ---
 
-The Sports Science Replication Centre is based in Dublin, Ireland. This intention of this centre is to create a worldwide, collborative investigation into the replicability of research findings specific to the field of sports science using objective and transparent replication studies of current evidence.
+The Sports Science Replication Centre is based in Dublin, Ireland. This intention of this centre is to create a worldwide, collaborative investigation into the replicability of research findings specific to the field of sports science using objective and transparent replication studies of current evidence.
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/SSRCleaflet.pdf" "newtab" >}}leaflet{{< /staticref >}}.
