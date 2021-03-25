@@ -8106,7 +8106,7 @@ a.summary-link {
   padding: 0 1rem; }
   .navbar .nav-item {
     position: relative; }
-  @media (max-width: 991.98px) {
+  @media (max-width: 320px) {
     .navbar {
       height: 50px; }
       .navbar .navbar-nav-scroll {
@@ -8205,8 +8205,8 @@ a.summary-link {
 @media (max-width: 991.98px) {
   .navbar-brand-mobile-wrapper {
     position: absolute;
-    left: 0;
-    right: 0; }
+    left: 40px;
+    right: 0px; }
   .navbar-brand {
     margin: 0 auto; }
   .navbar-brand img {
@@ -8221,7 +8221,7 @@ a.summary-link {
     position: absolute;
     left: 0;
     top: 50px;
-    width: 100%;
+    width: auto;
     background-color: #fffefa;
     text-align: center !important; }
   .dark .navbar-collapse {
@@ -8853,15 +8853,15 @@ html[dir='rtl'] body {
 .home-section {
   background: white;
   position: relative;
-  padding: 110px 0 110px 0;
+  padding: 110px 50px 110px 50px;
   z-index: 0; }
 
 .home-section.fullscreen {
   min-height: calc(100vh - 70px); }
 
-@media (max-width: 991.98px) {
+  @media only screen and (max-width: 320px) {
   .home-section.fullscreen {
-    min-height: calc(100vh - 50px); } }
+    min-height: calc(100vh - 70px); } }
 
 .no-navbar .home-section.fullscreen {
   min-height: 100vh; }
@@ -8927,9 +8927,12 @@ html[dir='rtl'] body {
 .parallax {
   background-attachment: fixed; }
 
-@media only screen and (max-width: 480px) {
-  .parallax {
-    background-attachment: inherit; 
+@media only screen and (max-width: 320px) {
+  .responsive {
+    background-attachment: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
   } 
 }
 
@@ -8945,9 +8948,9 @@ html[dir='rtl'] body {
 .dark .home-section:nth-of-type(even) {
   background: #23252f; }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
   .home-section {
-    padding: 0px 0 0px 0; }
+    padding: 50px 10px 50px 10px; }
   .home-section:first-of-type {
     padding-top: 0px; } }
 
@@ -8990,7 +8993,7 @@ html[dir='rtl'] body {
  **************************************************/
 /* Clear `.home-section` as any padding or animation interferes with Slider's layout and animations. */
 .home-section.wg-slider {
-  padding: 0;
+  padding: 10;
   animation: none;
   animation-delay: unset; }
 
@@ -9204,7 +9207,7 @@ ul.ul-edu li .description p.institution {
  *  Hero Widget
  **************************************************/
 .wg-hero {
-  padding: 3em 0; }
+  padding: 50em 50; }
 
 .hero-title {
   font-size: 2.7rem;
@@ -9230,10 +9233,10 @@ ul.ul-edu li .description p.institution {
   text-decoration: underline; }
 
 .wg-hero .cta-btns {
-  margin-bottom: 16px; }
+  margin-bottom: 0px; }
 
 .wg-hero .btn {
-  padding: 0.6em 2.1em; }
+  padding: 0.0em 0em; }
 
 .wg-hero.dark .btn {
   color: #000507; }
