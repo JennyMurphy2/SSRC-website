@@ -8927,7 +8927,7 @@ html[dir='rtl'] body {
 .parallax {
   background-attachment: fixed; }
 
-@media only screen and (max-width: 749px) {
+@media only screen and (max-width: 480px) {
   .parallax {
     background-attachment: inherit; 
   } 
@@ -8945,11 +8945,11 @@ html[dir='rtl'] body {
 .dark .home-section:nth-of-type(even) {
   background: #23252f; }
 
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 480px) {
   .home-section {
-    padding: 60px 0 60px 0; }
+    padding: 0px 0 0px 0; }
   .home-section:first-of-type {
-    padding-top: 40px; } }
+    padding-top: 0px; } }
 
 .section-heading h1 {
   margin: 0 0 10px 0; }
