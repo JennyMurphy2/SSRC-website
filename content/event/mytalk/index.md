@@ -1,8 +1,8 @@
 ---
-title: STORK Seminar Series
+title: STORK Spring Seminar Series
 
-event: Seminar talk
-event_url: https://twitter.com/STORKinesiology
+event: Register here
+event_url: https://t.co/znTKTTQBkJ?amp=1
 
 summary: Replication in Sport Science
 abstract: "This talk will provide an overview to the replication crisis, justification for replication in sport science through discussion of poor practices in the field and explain elements of the project for potential collaborators."
@@ -20,7 +20,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Twitter**](https://twitter.com/STORKinesiology)'
@@ -46,4 +46,4 @@ slides:
 projects:
 ---
 
-When the link becomes available for the talk, it will be posted here. After the talk, the slides will be linked here and there will be a link available to the talk on STORK's Youtube page.
+After the talk, the slides will be linked here and there will be a link available to the talk on STORK's Youtube page.

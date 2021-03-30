@@ -28,7 +28,7 @@ item:
     overlay_img: 'books.jpg'
     overlay_filter: 0.5
   - title: Who?
-    content: 'All Sports Science researchers.'
+    content: 'All sports and exercise science researchers.'
     align: center
     overlay_color: '#fffefa'
     overlay_img: 'track.jpg'
