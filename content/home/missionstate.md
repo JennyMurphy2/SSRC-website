@@ -12,6 +12,6 @@ design:
  
 ---
 
-To date, a host of research has identified concerns with the replication of psychological research, leading to the formation of projects such as the Many Labs, STORK (society for transparency, openness and replication in Kinesiology), and the Reproducibility Project in Psychology. 
+To date, a host of research has identified concerns with the replication of psychological research, leading to the formation of projects such as the Many Labs, [STORK (Society for Transparency, Openness and Replication in Kinesiology)](https://www.storkin.org), and the Reproducibility Project in Psychology. 
 
 [**Find out more**](https://ssreplicationcentre.com/about) 

@@ -19,14 +19,14 @@ item:
     content: ''
     align: right
     overlay_color: '#022c38'
-    overlay_img: 'irc.png'
+    overlay_img: 'tud.png'
     image_position: center
     overlay_filter: 0
   - title: Funding
     content: ''
     align: right
     overlay_color: '#fffefa'
-    overlay_img: 'tud.png'
+    overlay_img: 'irc.png'
     image_position: center
     overlay_filter: 0
 
