@@ -20,7 +20,7 @@ item:
     align: center
     overlay_color: ''
     overlay_img: 'pen.jpg'
-    overlay_filter: 0.4
+    overlay_filter: 0
    
 
 ---

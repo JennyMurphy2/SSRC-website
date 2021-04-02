@@ -26,13 +26,13 @@ item:
     align: center
     overlay_color: '#fffefa'
     overlay_img: 'books.jpg'
-    overlay_filter: 0.5
+    overlay_filter: 0
   - title: Who?
     content: 'All sports and exercise science researchers.'
     align: center
     overlay_color: '#fffefa'
     overlay_img: 'track.jpg'
-    overlay_filter: 0.5
+    overlay_filter: 0
   - title: Where?
     content: 'Anywhere in the world!'
     align: center
