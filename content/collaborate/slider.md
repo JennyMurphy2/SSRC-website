@@ -24,15 +24,15 @@ item:
   - title: Why?
     content: 'By  collaborating with like-minded individuals, volunteers will assist with improving experimental rigor and increase scientific transparency in this field.'
     align: center
-    overlay_color: '#fffefa'
+    overlay_color: ''
     overlay_img: 'books.jpg'
-    overlay_filter: 0
+    overlay_filter: 0.95
   - title: Who?
     content: 'All sports and exercise science researchers.'
     align: center
     overlay_color: '#fffefa'
     overlay_img: 'track.jpg'
-    overlay_filter: 0
+    overlay_filter: 0.95
   - title: Where?
     content: 'Anywhere in the world!'
     align: center
