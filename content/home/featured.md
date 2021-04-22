@@ -5,17 +5,17 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 25
 
-title: Featured Publications
+title: Featured Talks
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: event
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria

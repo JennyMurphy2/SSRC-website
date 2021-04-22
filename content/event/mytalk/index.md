@@ -1,11 +1,11 @@
 ---
 title: STORK Spring Seminar Series
 
-event: Register here
-event_url: https://t.co/znTKTTQBkJ?amp=1
+event: View the recording here
+event_url: https://www.youtube.com/watch?v=ZHgx-V56rmE&t=537s
 
 summary: Replication in Sport Science
-abstract: "This talk will provide an overview to the replication crisis, justification for replication in sport science through discussion of poor practices in the field and explain elements of the project for potential collaborators."
+abstract: "This talk provided an overview to the replication crisis, justification for replication in sport science through discussion of poor practices in the field and explained elements of the project for potential collaborators."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,7 +27,7 @@ image:
   focal_point: Right
 
 url_code: ""
-url_pdf: ""
+url_pdf: "media/STORKtalk.pdf"
 url_slides: ""
 url_video: ""
 
@@ -36,7 +36,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
+slides: "STORK"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -46,4 +46,3 @@ slides:
 projects:
 ---
 
-After the talk, the slides will be linked here and there will be a link available to the talk on STORK's Youtube page.
