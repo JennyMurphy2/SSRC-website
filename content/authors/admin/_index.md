@@ -62,5 +62,5 @@ user_groups:
 - Researchers
 ---
 
-Jenny Murphy is a PhD researcher at Technological University Dublin which commenced in October 2020. She is an awardee of the Government of Ireland Postgraduate Scholarship Programme. Jenny has a keen interest in how research is conducted in the field of sports science and her affinity for research quality and methodologies has progessively increased throughout her education. She has a long term interest in improving the quality and rigor of research in sports science and is excited to oversee the investigation of research credibility to diminish common research issues within the field.
+Jenny Murphy is a PhD researcher at Technological University Dublin which commenced in October 2020. She is an awardee of the Government of Ireland Postgraduate Scholarship Programme. Jenny has a keen interest in how research is conducted in the field of sports science and her affinity for research quality and methodologies has progressively increased throughout her education. She has a long term interest in improving the quality and rigor of research in sports science and is excited to oversee the investigation of research credibility to diminish common research issues within the field.
 
