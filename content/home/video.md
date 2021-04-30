@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 40
 
-title: What is replication?
+title: What is Replication?
 design:
     columns: "1"
 ---
