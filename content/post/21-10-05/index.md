@@ -18,7 +18,7 @@ We are recruiting any applied sports and exercise researchers, and their undergr
 
 Studies to be replicated will be selected according to our protocol which is available to view [**here**](https://osf.io/v3wz4/) as a preprint on OSF. 
 
-If you are interested in collaborating with us, please fill out the [**Expression of Interest**](https://osf.io/d38mq/) form and we will contact you. If you need more information, check out our "collaborate" section of this website or contact us via the contact page.
+If you are interested in collaborating with us, please fill out the [**Expression of Interest**](https://forms.office.com/r/iL0z0AFhVC) form and we will contact you. If you need more information, check out our "collaborate" section of this website or contact us via the contact page.
 
 
 
