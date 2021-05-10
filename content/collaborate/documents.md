@@ -26,16 +26,21 @@ item:
 - document_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-03-03"
-  description: "Authorship will follow ICMJE guidelines. These guidelines can be viewed on their website http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html"
+  description: "Authorship will follow the ICMJE guidelines. These guidelines can be viewed on their [**website**](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)."
   title: Authorship
   url: ""
 - document_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-03-03"
-  description: A document with full details for volunteer laboratories is currently being finalized and will appear here when it is ready.
-  title: Terms and Conditions
+  date_start: "2021-05-01"
+  description: Please fill out the [**Expression of Interest**](https://forms.office.com/r/iL0z0AFhVC) form if you are interested in collaborating with us and we will contact you shortly
+  title: Expression of Interest Form
+  url:  
+- document_url: https://www.edx.org
+  date_end: ""
+  date_start: "2021-04-01"
+  description: Please read the [**Executive Summary**](https://osf.io/d38mq/) of the project for an overview of the project goals and stages.
+  title: Executive Summary
   url: 
-  
 ---
 
 {{< icon name="download" pack="fas" >}} Please download our {{< staticref "media/SSRCleaflet.pdf" "newtab" >}}'Information for Collaborating Labs'{{< /staticref >}} leaflet for further information on collaborating with us. 
