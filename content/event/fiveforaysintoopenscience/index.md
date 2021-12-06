@@ -1,16 +1,16 @@
 ---
-title: Replication in Sport Science
+title: Five Forays into Open Science
 
 event: View the recording here
-event_url: https://www.youtube.com/watch?v=ZHgx-V56rmE&t=537s
+event_url: https://www.youtube.com/watch?v=S93af235mtc
 
-summary: STORK Spring Seminar Series
-abstract: "This talk provided an overview to the replication crisis, justification for replication in sport science through discussion of poor practices in the field and explained elements of the project for potential collaborators."
+summary: STORK Fall Seminar series
+abstract: An open discussion about engaging with open science. Speakers include Aaron Caldwell, Eimear Dolan, Sam Orange, Ciaran Fairman and Katherine Tamminen.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-21T16:00:00Z"
-date_end: "2021-04-21T17:00:00Z"
+date: "2021-11-24T16:00:00Z"
+date_end: "2021-11-24T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -20,14 +20,14 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Twitter**](https://twitter.com/STORKinesiology)'
   focal_point: Right
 
 url_code: ""
-url_pdf: "media/STORKtalk.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

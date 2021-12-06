@@ -1,10 +1,10 @@
 ---
-title: STORK Journal Club
+title: How many is enough?
 
 event: Journal Club
 event_url: https://t.co/sADNmGAeSh?amp=1
 
-summary: How many is enough?
+summary: STORK Journal Club
 abstract: Choosing your sample size can be challenging, but many strategies are available. In the next journal club (led by Cyril Forestier), we will discuss "Sample Size Justification" by Daniel Lakens. Paper available here https://psyarxiv.com/9d3yf/
 
 # Talk start and end times.
