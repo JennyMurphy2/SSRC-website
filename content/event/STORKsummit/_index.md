@@ -1,7 +1,7 @@
 ---
 title: The STORK Summit
 
-event: 
+event: https://sites.google.com/storkinesiology.org/stork-summit-2022/
 event_url: https://sites.google.com/storkinesiology.org/stork-summit-2022/
 
 summary: Moving toward better research practices in Kinesiology
