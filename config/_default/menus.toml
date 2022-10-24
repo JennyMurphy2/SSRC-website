@@ -43,3 +43,7 @@
   url = "contact"
   weight = 80
 
+[[main]]
+  name = "Studies"
+  url = "studies"
+  weight = 90

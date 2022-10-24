@@ -18,7 +18,7 @@ To date, a host of research has identified concerns with the replication of psyc
 
 <img src="featured.jpg" 
      style="margin: 0px 20px 100px 50px; float: right; 
-            width:300px; height:300px; border:0" /> However, very little research has investigated the quality, practice and reliability of findings within the field of Sports Science. This field is under threat from low sample sizes, high risk of bias, and invested interests in the outcomes of applied or commercial findings for sport (Heneghan et al, 2012[^1]; Knudson, 2017[^2]; Halperin et al, 2018)[^3]. 
+            width:300px; height:300px; border:0" /> However, very little research has investigated the quality, practice and reliability of findings within the field of Sports Science. This field is under threat from low sample sizes, high risk of bias, and invested interests in the outcomes of applied or commercial findings for sport (Heneghan et al, 2012[^1]; Knudson, 2017[^2]; Halperin et al, 2018[^3]). 
 
 Scientific progress may be halted because of questionable research practices and the focus on novel or unexpected results. Therefore, the Sports Science Replication Centre intends to investigate the credibility of these replication concerns within our own field, to improve the standard of scientific enquiry, thus leading to a better understanding in the interpretation and conduct of research for all moving forward.
 

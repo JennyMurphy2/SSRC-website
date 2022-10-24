@@ -8,7 +8,7 @@ headless: true
 active: no
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Register your interest
 subtitle:

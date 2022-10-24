@@ -1,13 +1,13 @@
 ---
-title: "Selection Protocol for Replication in Sports and Exercise Science"
+title: "Proposal of a Selection Protocol for Replication in Sports and Exercise Science"
 authors:
 - admin
 - Cristian Mesquida
 - Aaron R. Caldwell
 - Brian D. Earp
 - Joe Warne
-date: "2021-04-26T00:00:00Z"
-doi: "10.31219/osf.io/v3wz4"
+date: "2022-09-06T00:00:00Z"
+doi: "https://doi.org/10.1007/s40279-022-01749-1"
 
 featured: true
 
@@ -15,7 +15,7 @@ featured: true
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Selection Protocol for Replication of Studies in Sports and Exercise Science"
@@ -28,7 +28,7 @@ abstract: Introduction - To improve the rigor of science, experimental evidence 
 # links:
 # - name: Article
 # url: http://example.org
-url_pdf: 'https://osf.io/v3wz4/'
+url_pdf: 'https://doi.org/10.1007/s40279-022-01749-1'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
