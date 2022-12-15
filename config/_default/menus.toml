@@ -44,6 +44,6 @@
   weight = 80
 
 [[main]]
-  name = "Studies"
-  url = "studies"
+  name = "Replications"
+  url = "replications"
   weight = 90
